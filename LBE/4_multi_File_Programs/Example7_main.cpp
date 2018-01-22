@@ -1,8 +1,8 @@
 #include <iostream>
 #include <cmath>
 
-#include "Example42_ComplexNumber.h"
-#include "Example42_ComplexNumber_Polar.h"
+#include "Example7_ComplexNumber.h"
+#include "Example7_ComplexNumber_Polar.h"
 
 
 ComplexNumber addTwoComplexNumbers
